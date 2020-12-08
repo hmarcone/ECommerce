@@ -6,3 +6,4 @@
 * Entity Framework 6.0
 * JwtBearer
 * SQLServer publicado no Azure
+* Autenticação Web API Core com JwtBearer
